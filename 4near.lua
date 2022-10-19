@@ -1,4 +1,4 @@
-local _ = require"glua"
+local _ = require"4all"
 local the=_.options[[   
 near : report the mode of the kth nearest neighbors
 (c) 2022 Tim Menzies <timm@ieee.org> BSD-2 license
