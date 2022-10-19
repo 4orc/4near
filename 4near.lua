@@ -12,7 +12,7 @@ Options:
  -h  --help    show help                        = false
  -k  --k       number of nearest neighbors      = 3
  -p  --p       distance calculation coefficient = 2
- -s  --seed    random number seed               = 10019
+ -s  --seed    random number seed               = 937162211
  -w  --wait    wait before classifying          = 20
 
 Worked examples: https://tinyurl.com/neareg
